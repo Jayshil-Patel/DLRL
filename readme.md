@@ -25,8 +25,6 @@ The optimal degree of the polynomial seems to vary with the level of noise and t
 In summary, incorporating L2 regularization has a positive effect on the model's generalization and stability, especially in the presence of noise and for complex models. It helps strike a balance between fitting the training data and maintaining simplicity, leading to more robust models. The choice of the regularization parameter (λ) is crucial in achieving the right trade-off between fitting and generalization.
 
 
-BArd
-Observations
 
 The following are some observations from the six plots:
 
